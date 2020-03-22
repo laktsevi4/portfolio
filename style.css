@@ -164,7 +164,8 @@ article {
   margin: auto;
   padding: 30px;
   text-align: center;
-  background-image: url("files/advertising.jpg") no-repeat;
+  background-image: url("files/advertising.jpg");
+  background-repeat: no-repeat;
 }
 
 .page-footer { 
